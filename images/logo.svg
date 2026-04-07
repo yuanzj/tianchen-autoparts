@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" fill="none">
+  <!-- TC-LU -->
+  <text x="0" y="46" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="48" fill="#FFFFFF" letter-spacing="3">TC-LU</text>
+  <!-- X in blue -->
+  <text x="195" y="46" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="48" fill="#0A8FE6" letter-spacing="3">X</text>
+  <!-- EN -->
+  <text x="230" y="46" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="48" fill="#FFFFFF" letter-spacing="3">EN</text>
+</svg>
